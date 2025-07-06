@@ -20,8 +20,8 @@ public class Ans2{
         }
 
         System.out.println("You entered: \n");
-          System.out.println(userInput);
-        //System.out.println(userInput.toString());
+         // System.out.println(userInput);
+        System.out.println(userInput.toString());
 
    //     scanner.close();
 
